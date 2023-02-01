@@ -31,6 +31,8 @@ $$ |
 $$/                                                                                         
 
 """
+# ASCII art
+# https://patorjk.com/software/taag/#p=display&f=Big Money-sw&t=Palindromo
 def main():
     try:
         print(menu)
