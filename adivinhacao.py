@@ -2,6 +2,7 @@ import os, random, sys, math
 
 menu = """
 A-D-I-V-I-N-H-E O N-U-M-E-R-O
+
 [1] facil 1 - 10 7 vidas
 [2] médio 1 - 50 15 vidas
 [3] difícil 1 - 100 30 vidas
